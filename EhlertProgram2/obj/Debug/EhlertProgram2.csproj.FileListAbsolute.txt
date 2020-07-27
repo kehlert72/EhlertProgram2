@@ -1,0 +1,9 @@
+C:\Users\Kaleb\source\repos\EhlertProgram2\EhlertProgram2\bin\Debug\EhlertProgram2.exe.config
+C:\Users\Kaleb\source\repos\EhlertProgram2\EhlertProgram2\bin\Debug\EhlertProgram2.exe
+C:\Users\Kaleb\source\repos\EhlertProgram2\EhlertProgram2\bin\Debug\EhlertProgram2.pdb
+C:\Users\Kaleb\source\repos\EhlertProgram2\EhlertProgram2\obj\Debug\EhlertProgram2.Form1.resources
+C:\Users\Kaleb\source\repos\EhlertProgram2\EhlertProgram2\obj\Debug\EhlertProgram2.Properties.Resources.resources
+C:\Users\Kaleb\source\repos\EhlertProgram2\EhlertProgram2\obj\Debug\EhlertProgram2.csproj.GenerateResource.Cache
+C:\Users\Kaleb\source\repos\EhlertProgram2\EhlertProgram2\obj\Debug\EhlertProgram2.csproj.CoreCompileInputs.cache
+C:\Users\Kaleb\source\repos\EhlertProgram2\EhlertProgram2\obj\Debug\EhlertProgram2.exe
+C:\Users\Kaleb\source\repos\EhlertProgram2\EhlertProgram2\obj\Debug\EhlertProgram2.pdb
